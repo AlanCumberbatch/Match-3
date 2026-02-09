@@ -46,6 +46,28 @@ npm run build
 npm run preview
 ```
 
+## 部署
+
+项目使用 GitHub Actions 自动部署到 GitHub Pages。
+
+### 自动部署
+
+- 推送到 `main` 分支会自动触发构建和部署
+- 部署地址：https://alancumberbatch.github.io/Match-3/
+
+### 手动部署
+
+如果需要手动触发部署，可以在 GitHub Actions 页面手动运行 workflow。
+
+### 本地构建
+
+```bash
+# 构建生产版本
+npm run build
+
+# 构建产物在 dist/ 目录
+```
+
 ## 词表格式说明
 
 ### TXT 格式
