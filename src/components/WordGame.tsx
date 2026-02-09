@@ -143,6 +143,10 @@ const WordGame = () => {
       reader.readAsArrayBuffer(file)
       reader.onload = (e) => {
         try {
+          if (!e.target?.result) {
+            reject(new Error('Failed to read file'))
+            return
+          }
           const data = new Uint8Array(e.target.result as ArrayBuffer)
           const workbook = XLSX.read(data, { type: 'array', cellText: true })
           const worksheet = workbook.Sheets[workbook.SheetNames[0]]
@@ -394,6 +398,8 @@ const WordGame = () => {
       e.stopPropagation()
       setIsDragging(false)
 
+      if (!e.dataTransfer) return
+
       const files = Array.from(e.dataTransfer.files)
       if (files.length === 0) return
 
@@ -441,6 +447,8 @@ const WordGame = () => {
     e.preventDefault()
     e.stopPropagation()
     setIsDragging(false)
+
+    if (!e.dataTransfer) return
 
     const files = Array.from(e.dataTransfer.files)
     if (files.length === 0) return
