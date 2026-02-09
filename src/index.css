@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Microsoft YaHei", "幼圆", sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #fef6fb, #eef5ff);
+  min-height: 100vh;
+  padding: 20px;
+  overflow-x: hidden;
+}

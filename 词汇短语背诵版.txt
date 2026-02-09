@@ -1,0 +1,105 @@
+1. active：活跃的
+2. returned：返回
+3. habits：习惯
+4. wise：睿智的
+5. roots：根
+6. controlled：控制
+7. complex：复杂的
+8. littermates：同窝出生的幼崽
+9. wondered：想知道
+10. bloodline：血缘
+11. perform：表演
+12. chemicals：化学物质
+13. vitamin：维生素
+14. messy：杂乱的
+15. wonderful：很棒的
+16. weak：薄弱的
+17. memory: 记忆
+18. silent：寂静的
+1. got the wrong steps：跳错舞步
+2. I had no gift and there was no need to push myself so hard：我没有天赋，没必要这么逼自己
+3. Not everything will turn out as you wish. The most important is to keep trying：不是所有事情都会如你所愿。最重要的是坚持尝试
+4. finish our drinks：喝完饮料
+5. show off breakdance moves：炫耀霹雳舞动作
+6. as if：好像
+7. turning the hat inside out：把帽子里外翻转
+8. You have some moves, kid：你有两下子啊，孩子
+9. off days：不顺的日子
+10. Just believe in yourself. You can finally go through difficulties：只要相信自己，你最终能克服困难
+11. trying new dishes or making homemade：尝试新菜品或制作家常菜
+12. explore the universe, learn about stars and planets, make model rockets：探索宇宙、了解恒星和行星、制作火箭模型
+13. basic instruments：基础乐器
+14. acting skills：表演技巧
+15. get this volunteer chance：得到这个志愿者机会
+16. keep away from：远离
+17. a race against：与……的竞赛
+18. as hard as he could：尽他所能地用力
+19. make it：做到（成功完成）
+20. be in control of：掌控
+21. get control over us：掌控我们
+22. as social as humans：像人类一样社会化
+23. in the same way humans do：以人类的方式
+24. tell each other apart：区分彼此
+25. be separated：被分开
+26. raise another question：引出另一个问题
+27. even if：即使
+28. stick together：待在一起
+29. spend most of their time in a nesting box：大部分时间待在巢箱里
+30. tell her own kittens apart from the others：区分出自己的小猫和其他小猫
+31. as long as：只要
+32. A kitten that stays in her nest long enough：在巢里待足够久的小猫
+33. shared space：共享空间
+34. go missing：失踪
+35. build a mother-child bond like humans do：像人类一样建立母子纽带
+36. create “family” relationships：建立“家庭”关系
+37. develop a lifelong relationship：发展一生的关系
+38. actively drive...away：主动赶走……
+39. point out：指出
+40. tend to：倾向于
+41. explain：解释
+42. mood swing：情绪波动
+43. well-being：幸福；安康
+44. The key lies in：关键在于
+45. enter our eyes：进入我们的眼睛
+46. touch our skin：接触我们的皮肤
+47. tell our brain：告诉我们的大脑
+48. help us focus：帮助我们集中注意力
+49. ready for bed：准备睡觉
+50. perfect balance：完美的平衡
+51. active and alert：活跃且警觉
+52. get back our energy：恢复精力
+53. break：打破
+54. spend most of their time indoors：大部分时间待在室内
+55. 100 times weaker：弱100倍
+56. make the right amount of serotonin：产生适量的血清素
+57. lead to：导致
+58. lower energy：精力下降
+59. spend more time outdoors：花更多时间在户外
+60. make a difference：有影响；起作用
+61. In addition to：除了……之外
+62. be exposed to：暴露于；接触
+63. take in calcium：吸收钙
+64. build strong bones：强健骨骼
+65. support our immune system：支持我们的免疫系统
+66. The roles that sunshine plays in people's life：阳光在人们生活中扮演的角色
+67. produce Vitamin D：产生维生素D
+68. on your shoulder：在你肩上
+69. have a confusing win：获得了一场令人困惑的胜利
+70. I was stuck and couldn’t organize my ideas：我陷入了困境，无法整理思路
+71. sort out my thoughts：整理我的思绪
+72. felt amazed：感到惊讶
+73. depended too much on technology：过于依赖科技
+74. guide us step by step：一步步引导我们
+75. compared AI to calculators：把AI比作计算器
+76. ready answer：现成的答案
+77. avoid learning：逃避学习
+78. organize messy thoughts：整理杂乱的思绪
+79. as a personal helper for learning：作为学习的私人助手
+80. a wonderful tool：一个很棒的工具
+81. suffer from stress：承受压力
+82. deal with stress：应对压力
+83. a healthy diet：健康的饮食
+84. Making a list of things：列一个清单
+85. are weak in a subject：在某一科目上薄弱
+86. family history 家庭历史
+87. Have long conversations 进行长时间的交谈
